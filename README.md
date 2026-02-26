@@ -1,2 +1,10 @@
-# 30-days-python-challenge
-Daily Python projects to build real experience and portfolio.
+# 30 Days Python Challenge 🚀
+
+This repository contains my daily Python projects.
+
+Goal:
+- Build real experience
+- Improve coding skills
+- Prepare for job opportunities
+
+Start Date: 2026
